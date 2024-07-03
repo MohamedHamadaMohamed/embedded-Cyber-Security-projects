@@ -1,0 +1,11 @@
+AES.c:31:6:AES_encrpt	6
+AES.c:76:6:AES_decrpt	6
+AES.c:118:13:AddRoundKey	2
+AES.c:125:13:SubBytes	2
+AES.c:134:13:ShiftRows	2
+AES.c:166:13:MixColumns	2
+AES.c:197:13:InverseShiftRows	2
+AES.c:229:13:InverseSubBytes	2
+AES.c:238:13:InverseMixColumns	2
+AES.c:269:13:KeyExpansion	1
+AES.c:286:13:KeyExpansion_mainFunction	4
